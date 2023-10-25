@@ -1,4 +1,4 @@
-### Simon Game
+## Simon Game
 
 This is a simple implementation of the Simon game using HTML, CSS, and JavaScript. The Simon game is a memory game where players need to repeat a sequence of colors and sounds in the correct order. The game gradually becomes more challenging as players progress through the levels.
 
